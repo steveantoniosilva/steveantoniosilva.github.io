@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Big Picture by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2244,18 +2239,17 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
-		background-size: 256px 256px, cover;
+		background-image: url("https://www.securitymagazine.com/ext/resources/secenews/2018/ai-9001.jpg?1524594819");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
 	}
 
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
-		background-size: 256px 256px, cover;
+		background: url("https://twhsnews.com/wp-content/uploads/2016/12/636053241284023565-1698910486_635993185839763884-1853824258_high-school-graduation-900x599.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
@@ -2263,8 +2257,8 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
-		background-size: 256px 256px, cover;
+		background: url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/jefferson-santos-9SoCnyQmkzI-u_1200x768.jpeg?i_18C_XqUW422ysar4sWEt18agvTC_rh&size=770:433"), url("../../images/one.jpg"), url("../../images/two.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
