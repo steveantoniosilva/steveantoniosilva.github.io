@@ -2263,6 +2263,17 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	/* Two */
+
+	#three {
+		background: url("https://www.jamesedition.com/stories/wp-content/uploads/2020/07/slide-gemera-1-1-950x628.jpg");
+		background-size: cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+
+
 /* Contact */
 
 	#contact {
